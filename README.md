@@ -1,4 +1,4 @@
-Hello DS junkier! Here's an updated table that includes an additional column with LeetCode questions corresponding to each concept to help you stay sharp:
+Hello DS junky! Here's an updated table that includes an additional column with LeetCode questions corresponding to each concept to help you stay sharp:
 
 | Category                            | Concepts and Topics                                         | LeetCode Questions                                        |
 |-------------------------------------|------------------------------------------------------------|-----------------------------------------------------------|
